@@ -24,20 +24,20 @@ In the fiercely competitive landscape of the hospitality industry, the prevalenc
 
 ## Strategy
 
--Data Collection and Preprocessing
--Performed EDA (Exploratory Data Analysis)
--Feature Selection
--Model Selection and Training
--Visualization and Presentation
+- Data Collection and Preprocessing
+- Performed EDA (Exploratory Data Analysis)
+- Feature Selection
+- Model Selection and Training
+- Visualization and Presentation
 
 ## Recommendaions
 
--Upgrade amenities: Modernize for guest satisfaction
--Enhance UI/UX: User-friendly booking interface
--Optimize pricing: Dynamic rates for demand.
--Manage reviews: Respond effectively to feedback.
--Prevent double booking: Real-time synchronization needed
--Optimize loyalty programs: Encourage repeat business
+- Upgrade amenities: Modernize for guest satisfaction
+- Enhance UI/UX: User-friendly booking interface
+- Optimize pricing: Dynamic rates for demand.
+- Manage reviews: Respond effectively to feedback.
+- Prevent double booking: Real-time synchronization needed
+- Optimize loyalty programs: Encourage repeat business
 
 
 
